@@ -20,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <first_editor relative-caret-position="225">
+                <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -115,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="7" />
     <option name="y" value="76" />
     <option name="width" value="1400" />
@@ -190,12 +190,13 @@
       <workItem from="1555132830386" duration="5920000" />
       <workItem from="1555154953727" duration="404000" />
       <workItem from="1555194038736" duration="184000" />
-      <workItem from="1555197383100" duration="105000" />
+      <workItem from="1555197383100" duration="231000" />
+      <workItem from="1555200574626" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6613000" />
+    <option name="totallyTimeSpent" value="6743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="76" width="1400" height="787" extended-state="0" />
@@ -258,8 +259,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>

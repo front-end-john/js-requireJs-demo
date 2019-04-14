@@ -9,3 +9,8 @@ CMD 是 SeaJS 在推广过程中对模块定义的规范化产出。
 AMD:提前执行（异步加载：依赖先执行）+延迟执行
 CMD:延迟执行（运行到需加载，根据顺序执行）
 ```
+### example
+```
+http://www.ruanyifeng.com/blog/2012/11/require_js.html
+http://javascript.ruanyifeng.com/tool/requirejs.html
+```
